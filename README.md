@@ -2,12 +2,12 @@
 
 An script that opens scheduled Zoom meetings automatically.
 
-## Caveat
+## Caveats
 
 The script works by running in the background, which might be computationally expensive. It also only works on Mac OS right now, but the only OS-specific line is the part where we kill the Zoom process. 
 
 ## Requirements 
-- [x] Installed python version above 3.5
+- [x] Installed Python version above 3.5
 - [x] Installed `schedule` package
 - [x] Updated Zoom Software (Signed in)
 
